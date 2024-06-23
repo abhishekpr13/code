@@ -1,6 +1,6 @@
 # Package Information for pkg-config
 
-prefix=/Users/abhishekprakash/Desktop/Back_End/code/venv
+prefix=/Users/abhishekprakash/Desktop/code/venv
 exec_prefix=${prefix}
 libdir=${exec_prefix}/lib
 includedir=${prefix}/include

@@ -1,8 +1,8 @@
 # tcl pkg-config source file
 
-prefix=/Users/abhishekprakash/Desktop/Back_End/code/venv
-exec_prefix=/Users/abhishekprakash/Desktop/Back_End/code/venv
-libdir=/Users/abhishekprakash/Desktop/Back_End/code/venv/lib
+prefix=/Users/abhishekprakash/Desktop/code/venv
+exec_prefix=/Users/abhishekprakash/Desktop/code/venv
+libdir=/Users/abhishekprakash/Desktop/code/venv/lib
 includedir=${prefix}/include
 libfile=libtcl8.6.dylib
 

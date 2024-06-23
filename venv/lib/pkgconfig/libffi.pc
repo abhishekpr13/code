@@ -1,8 +1,8 @@
-prefix=/Users/abhishekprakash/Desktop/Back_End/code/venv
+prefix=/Users/abhishekprakash/Desktop/code/venv
 exec_prefix=${prefix}
 libdir=${exec_prefix}/lib
 toolexeclibdir=${libdir}
-includedir=/Users/abhishekprakash/Desktop/Back_End/code/venv/include
+includedir=/Users/abhishekprakash/Desktop/code/venv/include
 
 Name: libffi
 Description: Library supporting Foreign Function Interfaces

@@ -1,0 +1,6 @@
+Hello world
+This is new line
+Append operation will take place
+Firist line
+Second line
+Third line
